@@ -1,23 +1,9 @@
-# Change these first
-owner: JesseHoekema # Your GitHub organization or username, where this repository lives
-repo:  jessehoekemacom-upptime
-
-sites:
-  - name: Jesse Hoekema
-    url: https://jessehoekema.com
-
-status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+owner: JesseHoekema # GitHub username
+repo: jessehoekemacom-upptime # GitHub repository name
+user-agent: JesseHoekema
+sites: # List of endpoints to track
+  - name: Google
+    url: https://www.google.com
+status-website: # Status website (optional)
   baseUrl: /jessehoekemacom-upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: UpTime Jesse Hoekema
-  introTitle: "Hosted On Server"
-  introMessage: Hello!
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+  name: Upptime # Status website title
