@@ -2,8 +2,10 @@ owner: JesseHoekema # GitHub username
 repo: jessehoekemacom-upptime # GitHub repository name
 user-agent: JesseHoekema
 sites: # List of endpoints to track
-  - name: Google
-    url: https://www.google.com
+  - name: Jesse Hoekema
+    url: https://jessehoekema.com
+  - name: Koeien Bescherming
+    url: https://koeienbescherming.nl
 status-website: # Status website (optional)
   baseUrl: /jessehoekemacom-upptime
   name: Upptime # Status website title
